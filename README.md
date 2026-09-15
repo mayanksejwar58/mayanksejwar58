@@ -91,6 +91,5 @@ Console-based to-do list app.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayanksejwar58&label=Profile+Views&color=e62429&style=flat" />
 </p>
-<p align="center"><sub>⚠️ Note: no counter service can exclude the profile owner specifically — every visit-counter badge (including this one) counts all page loads, including yours. This one uses session-based counting, so refreshing repeatedly doesn't inflate it much, but it's not a true "others only" count. There's no honest way to promise that with a static badge.</sub></p>
 <p align="center"><sub>🕸️ "It's not who I am underneath, but what I deploy that defines me." 🕸️</sub></p>
  
