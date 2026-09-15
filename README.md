@@ -1,6 +1,3 @@
-
-
-Readme · MD
 <div align="center">
 <img src="./assets/spiderman_banner.svg" width="100%" alt="Mayank Sejwar — swinging in" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=E62429&center=true&vCenter=true&width=650&lines=With+great+code+comes+great+responsibility;Building+RAG+pipelines+%2B+FastAPI+%2B+Supabase;Your+friendly+neighborhood+backend+dev;Swinging+between+AI+and+automation." />
