@@ -17,16 +17,16 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/mayank-sejwar-b5094737b">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:mayanksejwar58@gmail.com">
+<a href="mailto:YOUR-EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://YOUR-PORTFOLIO.dev">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://twitter.com/@mayanks4981">
+<a href="https://twitter.com/YOUR-HANDLE">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
@@ -166,15 +166,29 @@ data:
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mayanksejwar58&show_icons=true&theme=radical&hide_border=true&bg_color=0B0B12&title_color=7C3AED&icon_color=06B6D4&text_color=C9C9D9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksejwar58&theme=radical&hide_border=true&background=0B0B12&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" width="49%" />
 
 <br>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksejwar58&layout=compact&theme=radical&hide_border=true&bg_color=0B0B12&title_color=7C3AED&text_color=C9C9D9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksejwar58&theme=react-dark&bg_color=0B0B12&color=06B6D4&line=7C3AED&point=ffffff&hide_border=true" width="49%" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" />
+
+## 🧪 `FEATURED_BUILDS`
+
+<div align="center">
+
+<a href="https://github.com/mayanksejwar58/Basic-Banking-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayanksejwar58&repo=Basic-Banking-Application&theme=radical&hide_border=true&bg_color=0B0B12&title_color=7C3AED&icon_color=06B6D4&text_color=C9C9D9" width="48%" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" />
 
 ## 🎯 `CURRENT_MISSION`
 
@@ -196,11 +210,10 @@ mayank = Mayank()
 
 <div align="center">
 
+### 🕸️ *"With great data comes great responsibility."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0B0B12&height=100&section=footer" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=mayanksejwar58&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0B0B12" />
-
-### 🕸️ *"With great data comes great responsibility."*
 
 </div>
