@@ -16,20 +16,18 @@
 <img src="https://img.shields.io/badge/UPTIME-24%2F7_SHIPPING-10B981?style=for-the-badge&labelColor=0B0B12" />
 
 <br><br>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://in.linkedin.com/in/mayank-sejwar-b5094737b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:mayanksejwar58@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://YOUR-PORTFOLIO.dev">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://twitter.com/YOUR-HANDLE">
+<a href="https://twitter.com/mayanks4981">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:7C3AED,100:06B6D4&height=120&section=header" width="100%" />
