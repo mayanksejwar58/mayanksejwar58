@@ -1,89 +1,206 @@
 <div align="center">
-<img src="./assets/spiderman_banner.svg" width="100%" alt="Mayank Sejwar — swinging in" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=E62429&center=true&vCenter=true&width=650&lines=With+great+code+comes+great+responsibility;Building+RAG+pipelines+%2B+FastAPI+%2B+Supabase;Your+friendly+neighborhood+backend+dev;Swinging+between+AI+and+automation." />
-<img src="https://img.shields.io/badge/status-web--slinging_in_progress-e62429?style=for-the-badge&labelColor=1b1464" />
+
+<img src="./assets/spiderman_banner.svg"
+     width="100%"
+     alt="Mayank Sejwar - AI & Data Science Developer" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=%3E+Booting+Mayank.exe...;AI+%26+Data+Science+Student;RAG+%7C+FastAPI+%7C+Supabase+%7C+Automation;Building+systems%2C+not+just+demos;Weaving+AI+into+real-world+applications." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-7C3AED?style=for-the-badge&labelColor=0B0B12" />
+<img src="https://img.shields.io/badge/FOCUS-AI_%26_RAG-06B6D4?style=for-the-badge&labelColor=0B0B12" />
+<img src="https://img.shields.io/badge/BACKEND-FASTAPI-3B82F6?style=for-the-badge&labelColor=0B0B12" />
+<img src="https://img.shields.io/badge/UPTIME-24%2F7_SHIPPING-10B981?style=for-the-badge&labelColor=0B0B12" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/mayank-sejwar-b5094737b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mayanksejwar58@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO.dev">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://twitter.com/@mayanks4981">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:7C3AED,100:06B6D4&height=120&section=header" width="100%" />
+
 <br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:e62429,100:1b1464&height=6&section=header" width="100%" />
+
+## 🕸️ `MAYANK'S DIGITAL WEB`
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 AI / ML
+RAG • Embeddings
+Vector Search • LLMs
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ BACKEND
+FastAPI • REST APIs
+Supabase • PostgreSQL
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ ENGINEERING
+Python • Git • Docker
+Automation • APIs
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" />
+
 ## 🕷️ About Me
- 
-I'm an AI & Data Science student who builds practical, working AI systems instead of isolated demos. My focus right now: **Retrieval-Augmented Generation (RAG)**, backend engineering with **FastAPI**, and intelligent automation — the same way Peter Parker builds gadgets in his room before they end up saving the day.
- 
-- 🕸️ Weaving RAG pipelines — embeddings, vector search, reranking
-- 🕸️ Building backend systems with FastAPI + Supabase
-- 🕸️ Exploring AI agents and automation tooling
-- 🕸️ Comfortable across Python, SQL, and Docker/Git workflows
-<br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1b1464,50:e62429,100:0a0a0a&height=6&section=header" width="100%" />
-## 🏙️ Currently Building
- 
-**MindVault AI** — a personal intelligence system that turns documents into queryable memory using RAG, embeddings, vector search, and LLM-based reasoning. Not a chatbot wrapper — an actual retrieval brain.
- 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:e62429,100:1b1464&height=6&section=header" width="100%" />
-## 🕸️ Tech Web
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,docker,git,github,vscode&theme=dark&perline=8" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1b1464?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=e62429" />
-  <img src="https://img.shields.io/badge/RAG-e62429?style=for-the-badge&labelColor=1b1464" />
-  <img src="https://img.shields.io/badge/Vector%20Search-1b1464?style=for-the-badge&labelColor=e62429" />
-</p>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1b1464,50:e62429,100:0a0a0a&height=6&section=header" width="100%" />
-## 🎯 Featured Projects
- 
-| Project | Description | Stack |
-|---|---|---|
-| **[expense-tracker-fastapi](https://github.com/mayanksejwar58/expense-tracker-fastapi)** | Full-stack expense tracker — FastAPI backend, Streamlit frontend, Supabase storage. | `FastAPI` `Streamlit` `Supabase` `Python` |
-| **[MedInfo-Bot](https://github.com/mayanksejwar58/MedInfo-Bot)** | Structured medical information lookup assistant. | `HTML` |
-| **[Digital-Eye](https://github.com/mayanksejwar58/Digital-Eye)** | Dart-based app exploring vision/detection functionality. | `Dart` |
-| **[Python-ToDo-List](https://github.com/mayanksejwar58/Python-ToDo-List)** | Console-based to-do list app. | `Python` |
- 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:e62429,100:1b1464&height=6&section=header" width="100%" />
 
-## 🐍 Contribution Web
- 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayanksejwar58/mayanksejwar58/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayanksejwar58/mayanksejwar58/output/snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/mayanksejwar58/mayanksejwar58/output/snake.svg" />
-  </picture>
-</p>
-<p align="center"><sub>Generated by the GitHub Actions workflow below — lives in your own repo, no external server, can't go down.</sub></p>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1b1464,50:e62429,100:0a0a0a&height=6&section=header" width="100%" />
+I'm an **AI & Data Science student** focused on building practical AI systems and backend applications that solve real problems.
 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksejwar58&theme=dark&hide_border=true&background=0a0a0a&ring=e62429&fire=1b1464&currStreakLabel=e62429" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayanksejwar58&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
+My current technical direction sits at the intersection of:
+
+- 🧠 **Retrieval-Augmented Generation**
+- 🔎 **Semantic Search & Reranking**
+- ⚡ **FastAPI Backend Engineering**
+- 🗄️ **Supabase / PostgreSQL**
+- 🤖 **AI Agents & Automation**
+- 🐍 **Python Development**
+- 🐳 **Docker & Git workflows**
+
+I prefer building complete systems over isolated notebooks:
+
+```text
+Idea
+  ↓
+Architecture
+  ↓
+Backend
+  ↓
+Data Layer
+  ↓
+AI / Automation
+  ↓
+API
+  ↓
+Deployment
+  ↓
+Something people can actually use
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" />
+
+## ⚙️ `TECH_STACK.json`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,vscode,linux,py,supabase&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
 <br>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1b1464,50:e62429,100:0a0a0a&height=6&section=header" width="100%" />
-## 🕸️ Connect
- 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-sejwar-b5094737b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-e62429?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1464" />
-  </a>
-  <a href="mailto:mayanksejwar58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1b1464?style=for-the-badge&logo=gmail&logoColor=white&labelColor=e62429" />
-  </a>
-  <a href="https://x.com/mayanks4981" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=e62429" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayanksejwar58&label=Profile+Views&color=e62429&style=flat" />
-</p>
-<p align="center"><sub>🕸️ "It's not who I am underneath, but what I deploy that defines me." 🕸️</sub></p>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:e62429,100:1b1464&height=80&section=footer" width="100%" />
- 
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 AI / RAG Pipeline
+```yaml
+retrieval:
+  vector_store: pgvector / Supabase
+  embeddings: OpenAI / HF models
+  reranking: cross-encoder
+  chunking: semantic + recursive
+
+generation:
+  framework: LangChain
+  orchestration: custom agents
+  eval: retrieval precision@k
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🗄️ Backend Layer
+```yaml
+api:
+  framework: FastAPI
+  auth: JWT / Supabase Auth
+  docs: OpenAPI / Swagger
+
+data:
+  db: PostgreSQL (Supabase)
+  storage: Supabase Storage
+  cache: Redis (planned)
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" />
+
+## 📡 `LIVE_TRANSMISSION`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksejwar58&theme=radical&hide_border=true&background=0B0B12&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" width="49%" />
+
+<br>
+
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" />
+
+## 🎯 `CURRENT_MISSION`
+
+```python
+class Mayank:
+    def __init__(self):
+        self.role = "AI & Data Science Student"
+        self.currently_building = "RAG systems that don't hallucinate on real data"
+        self.learning = ["Agentic workflows", "Advanced reranking", "System design"]
+        self.open_to = ["collaborations", "internships", "interesting AI problems"]
+
+    def contact(self):
+        return "reach out — I reply fast ⚡"
+
+mayank = Mayank()
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" />
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0B0B12&height=100&section=footer" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=mayanksejwar58&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0B0B12" />
+
+### 🕸️ *"With great data comes great responsibility."*
+
+</div>
