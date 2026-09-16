@@ -16,18 +16,20 @@
 <img src="https://img.shields.io/badge/UPTIME-24%2F7_SHIPPING-10B981?style=for-the-badge&labelColor=0B0B12" />
 
 <br><br>
-<a href="https://in.linkedin.com/in/mayank-sejwar-b5094737b">
+
+<a href="https://www.linkedin.com/in/mayank-sejwar-b5094737b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mayanksejwar58@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR-PORTFOLIO.dev">
-  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://twitter.com/mayanks4981">
+<a href="https://x.com/mayanks4981">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+<a href="https://github.com/mayanksejwar58">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:7C3AED,100:06B6D4&height=120&section=header" width="100%" />
@@ -164,7 +166,6 @@ data:
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksejwar58&theme=radical&hide_border=true&background=0B0B12&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" width="49%" />
 
 <br>
@@ -173,9 +174,7 @@ data:
 
 </div>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,50:06B6D4,100:7C3AED&height=3&section=header" width="100%" />
 
 ## 🎯 `CURRENT_MISSION`
 
