@@ -169,8 +169,15 @@ data:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksejwar58&theme=radical&hide_border=true&background=0B0B12&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" width="49%" />
 
 <br>
+<h2 align="center">🕹️ My Contribution Graph</h2>
 
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mayanksejwar58/mayanksejwar58/output/pacman-contribution-graph.svg"
+    alt="Mayank Sejwar Pac-Man Contribution Graph"
+    width="100%"
+  />
+</p>
 
 </div>
 
