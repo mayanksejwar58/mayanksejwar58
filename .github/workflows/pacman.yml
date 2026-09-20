@@ -1,9 +1,9 @@
-name: generate pacman contribution graph (jamun theme)
+name: Pac-Man contribution graph (jamun theme)
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # every 24 hours
-  workflow_dispatch:       # manual run button
+    - cron: '0 0 * * *'   # auto-update every day at 00:00 UTC
+  workflow_dispatch:       # manual "Run workflow" button
   push:
     branches:
       - main
@@ -16,53 +16,69 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate contribution graph SVGs
+      - name: Generate Pac-Man SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
 
-      - name: recolor SVGs to jamun purple
+      - name: Recolor squares to jamun purple
         run: |
           cat > recolor.py << 'PY'
           import colorsys, glob, re, sys
 
-          HUE = 280 / 360  # jamun purple
+          HUE = 275 / 360   # 275 = jamun | 300 = pink | 200 = blue | 30 = orange
+          changed = 0
+
 
           def recolor(r, g, b):
               h, l, s = colorsys.rgb_to_hls(r / 255, g / 255, b / 255)
-              if s > 0.2 and 85 / 360 <= h <= 170 / 360:          # greens -> jamun purple
-                  h, s, l = HUE, min(s, 0.55), 0.15 + l * 0.75
-              elif s < 0.3 and 0.03 < l < 0.3:                    # dark greys -> dark plum
-                  h, s = HUE, 0.40
+              if s > 0.2 and 85 / 360 <= h <= 170 / 360:       # only the green squares
+                  h, s, l = HUE, min(s, 0.5), 0.16 + l * 0.72  # softer purple, still visible
               else:
-                  return None
+                  return None                                   # bg, walls, ghosts, pac-man stay
               r, g, b = colorsys.hls_to_rgb(h, l, s)
               return round(r * 255), round(g * 255), round(b * 255)
 
+
           def hex_sub(m):
+              global changed
               x = m.group(1)
               if len(x) == 3:
                   x = "".join(c * 2 for c in x)
               out = recolor(int(x[0:2], 16), int(x[2:4], 16), int(x[4:6], 16))
-              return m.group(0) if out is None else "#%02x%02x%02x" % out
+              if out is None:
+                  return m.group(0)
+              changed += 1
+              return "#%02x%02x%02x" % out
+
 
           def rgb_sub(m):
-              r, g, b = (int(m.group(i)) for i in (1, 2, 3))
-              out = recolor(r, g, b)
-              return m.group(0) if out is None else "rgb(%d,%d,%d)" % out
+              global changed
+              out = recolor(*(int(m.group(i)) for i in (1, 2, 3)))
+              if out is None:
+                  return m.group(0)
+              changed += 1
+              return "rgb(%d,%d,%d)" % out
+
 
           for path in sys.argv[1:] or glob.glob("dist/*.svg"):
               s = open(path, encoding="utf-8").read()
               s = re.sub(r"#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})\b", hex_sub, s)
               s = re.sub(r"rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)", rgb_sub, s)
               open(path, "w", encoding="utf-8").write(s)
-              print("recolored", path)
+              print(f"recolored {path}")
 
+          print(f"total colors changed: {changed}")
+          if changed == 0:
+              sys.exit("ERROR: no colors were changed - check the SVG format")
           PY
           python3 recolor.py dist/*.svg
+          # make the normal file use the same dark look
+          cp dist/pacman-contribution-graph-dark.svg dist/pacman-contribution-graph.svg
+          ls -la dist
 
-      - name: push SVGs to the output branch
+      - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
