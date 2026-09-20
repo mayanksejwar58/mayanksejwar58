@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=6000&pause=2000&letterSpacing=4px&color=C9B8EC&center=true&vCenter=true&width=900&height=90&repeat=false&lines=Mayank+Sejwar" alt="Mayank Sejwar" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=6000&pause=2000&letterSpacing=4px&color=C9B8EC&center=true&vCenter=true&width=900&height=90&repeat=true&lines=Mayank+Sejwar" alt="Mayank Sejwar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=1800&color=9F8FBF&center=true&vCenter=true&width=900&lines=%3E+Booting+Mayank.exe...;AI+%26+Data+Science+Student;RAG+%7C+FastAPI+%7C+Supabase+%7C+Automation;Building+systems%2C+not+just+demos;Weaving+AI+into+real-world+applications" alt="Typing intro" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-2F8F83?style=for-the-badge&labelColor=21262D" />
 <img src="https://img.shields.io/badge/FOCUS-AI_%26_RAG-7C5CBF?style=for-the-badge&labelColor=21262D" />
